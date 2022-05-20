@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicolas Acerbi</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [my web site](acerbinicolas.github.io/Curriculum/)
+- 🔭 I’m currently working on [my web site](https://acerbinicolas.github.io/Curriculum/)
 
 - 🌱 I’m currently learning **Full Stack Developer at CODERHOUSE**
 
-- 👨‍💻 All of my projects are available at [github.com/AcerbiNicolas](github.com/AcerbiNicolas)
+- 👨‍💻 All of my projects are available at [github.com/AcerbiNicolas](https://github.com/AcerbiNicolas)
 
 - 💬 Ask me about **HTML, CSS and JAVASCRIPT**
 
