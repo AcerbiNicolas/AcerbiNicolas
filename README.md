@@ -13,7 +13,7 @@ Soy una persona organizada, autodidacta y proactiva. Me adapto fácilmente a cua
 
 ### 📂 Portfolio
 - 🔗 [Mi sitio web](https://acerbinicolas.com/)
-- 💻 [Mis proyectos en GitHub](https://github.com/AcerbiNicolas)
+- 💻 [Mis proyectos en GitHub](https://github.com/AcerbiNicolas?tab=repositories)
 
 <hr style="border: 1px solid #ccc; width: 100%">
 
@@ -32,5 +32,5 @@ I am an organized, self-taught, and proactive person. I easily adapt to any situ
 
 ### 📂 Portfolio
 - 🔗 [My Website](https://acerbinicolas.com/)
-- 💻 [My GitHub Projects](https://github.com/AcerbiNicolas)
+- 💻 [My GitHub Projects](https://github.com/AcerbiNicolas?tab=repositories)
 
